@@ -214,6 +214,17 @@ Run the test suite with:
 ./manage.sh test
 ```
 
+## API Documentation
+
+### Swagger UI
+![Swagger UI](https://raw.githubusercontent.com/praddypawar/blog_platform/main/swagger_ui.jpeg)
+
+### ReDoc
+![ReDoc](https://raw.githubusercontent.com/praddypawar/blog_platform/main/redoc_ui.jpeg)
+
+## Django Admin Panel
+![Django Admin](https://raw.githubusercontent.com/praddypawar/blog_platform/main/django_admin.jpeg)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
