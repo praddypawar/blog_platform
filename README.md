@@ -41,7 +41,7 @@ The API is built using a modern microservices architecture with Docker:
 
 ## Data Model
 
-![Data Model](docs/data_model.png)
+![Data Model]([docs/data_model.png](https://github.com/praddypawar/blog_platform/blob/main/db.jpeg))
 
 ## Tech Stack
 
