@@ -217,19 +217,17 @@ Run the test suite with:
 ## API Documentation
 
 ### Swagger UI
-![Swagger UI](https://raw.githubusercontent.com/praddypawar/blog_platform/main/swagger_ui.jpeg)
+![Swagger UI](https://raw.githubusercontent.com/praddypawar/blog_platform/main/swagger.jpeg)
 
 ### ReDoc
-![ReDoc](https://raw.githubusercontent.com/praddypawar/blog_platform/main/redoc_ui.jpeg)
+![ReDoc](https://raw.githubusercontent.com/praddypawar/blog_platform/main/api-redoc.jpeg)
 
 ## Django Admin Panel
-![Django Admin](https://raw.githubusercontent.com/praddypawar/blog_platform/main/django_admin.jpeg)
+![Django Admin](https://raw.githubusercontent.com/praddypawar/blog_platform/main/django-admin.jpeg)
+
 
 ## License
-
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributors
-
-- Your Name <your.email@example.com>
-```
+- Your Name Pradip Pawar
