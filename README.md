@@ -230,4 +230,4 @@ Run the test suite with:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributors
-- Your Name Pradip Pawar
+- Pradip Pawar
