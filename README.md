@@ -37,11 +37,16 @@ A complete RESTful API for a blog platform with user authentication, post manage
 
 The API is built using a modern microservices architecture with Docker:
 
-![System Architecture](docs/system_architecture.png)
+## Flowchart
+![Flowchart](https://raw.githubusercontent.com/praddypawar/blog_platform/main/flowchart.jpeg)
 
 ## Data Model
+![Data Model](https://github.com/praddypawar/blog_platform/blob/main/db.jpeg)
 
-![Data Model](docs/data_model.png)
+## Process Diagram
+![Process Diagram](https://raw.githubusercontent.com/praddypawar/blog_platform/main/process.jpeg)
+
+
 
 ## Tech Stack
 
